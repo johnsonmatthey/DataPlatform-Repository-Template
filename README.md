@@ -1,2 +1,2 @@
-# DataPlatform-LandingZone-Template
-Repository template for Landing Zone Product Repositories
+# DataPlatform-Repository-Template
+Repository template for Repository Product Repositories
